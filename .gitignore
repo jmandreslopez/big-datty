@@ -1,0 +1,5 @@
+/vendor
+.env
+.idea
+.phpstorm.*
+_ide_*
